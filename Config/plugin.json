@@ -1,0 +1,13 @@
+{
+	"name" : "DebugKit",
+	"description" : "Debug Kit",
+
+	"author" : "Alain Martini",
+	"authorEmail" : "webmaster@martini-multimedia.net",
+	"authorUrl" : "http://martini-multimedia.net",
+
+	"dependencies": {
+		"plugins": [
+		]
+	}
+}
